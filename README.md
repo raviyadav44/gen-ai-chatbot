@@ -113,5 +113,20 @@ Here’s a preview of the HR Policy Chatbot in action:
 
 ![App Screenshot](assets/app.png)
 
+---
+
+## 🙏 Acknowledgements & References
+
+This project wouldn't have been possible without the amazing resources and guidance from the **Codebasics** channel. A huge shoutout and heartfelt thanks to **Dhaval Patel** for his incredible tutorial series on building an **RAG-based Chatbot**.
+
+If you're interested in learning the step-by-step process of building an end-to-end AI chatbot using open-source tools like **LLMs, Chroma, and Streamlit**, I highly recommend checking out the tutorial series:
+
+🎥 **YouTube Video Link**  
+[Build AI Chatbot with Open Source LLM | Part 3](https://www.youtube.com/watch?v=MoqgmWV1fm8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F&index=3)
+
+📺 **Channel**: [Codebasics](https://www.youtube.com/c/codebasics)
+
+Thank you, **Dhaval**, for simplifying complex topics and sharing such valuable content with the community!
+
 
 ---
