@@ -115,6 +115,14 @@ Here’s a preview of the HR Policy Chatbot in action:
 
 ---
 
+## 🎥 Demo Video
+
+Click the image below to watch the demo video on YouTube!
+
+[![Watch the Demo](https://youtu.be/NM3kjxxC2HM)
+
+---
+
 ## 🙏 Acknowledgements & References
 
 This project wouldn't have been possible without the amazing resources and guidance from the **Codebasics** channel. A huge shoutout and heartfelt thanks to **Dhaval Patel** for his incredible tutorial series on building an **RAG-based Chatbot**.
