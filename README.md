@@ -104,6 +104,9 @@ If the chatbot can't find an answer, it kindly guides you to contact the **HR te
 
 This chatbot demonstrates how **open-source LLMs + vector databases** can solve **real business problems** without heavy infrastructure or recurring costs. It's a **practical**, **scalable**, and **privacy-conscious** solution for any organization that wants to make internal knowledge easily accessible.
 
+## App architecture
+![App Screenshot](assets/app_architecture.png)
+
 ## 🖼️ App Screenshot
 
 Here’s a preview of the HR Policy Chatbot in action:
